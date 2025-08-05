@@ -1,4 +1,4 @@
-# Baweja Assignment - React Application
+# GitTodo - React Application
 
 A modern React application built with Vite, featuring a To-Do application and GitHub user search functionality. This project demonstrates the use of React functional components, Redux Toolkit for state management, and React Router for navigation.
 
